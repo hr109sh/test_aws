@@ -1,0 +1,5 @@
+branch-defaults:
+  master:
+    environment: TestApplication-env
+global:
+  profile: eb-cli
